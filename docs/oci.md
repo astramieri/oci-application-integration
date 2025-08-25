@@ -7,7 +7,10 @@ Oracle Integration Cloud (OCI) includes several features:
 - File Server
 - B2B
 
-Oracle Integration Editions
+![Oracle Integration Cloud (OCI)](../imgs/oci.png)
+
+## Oracle Integration Editions
+
 - Standard ($)
     - Integrations
     - File Server
