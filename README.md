@@ -4,4 +4,5 @@ Note-taking repository for OCI Application Integration Edition 6 Exam (1Z0-1042-
 
 ## Overview
 
-- [Oracle Integration Cloud](./docs/oci.md)
+- [Oracle Integration Cloud (OIC)](./docs/oic.md)
+- [OIC Patterns](./docs/oic_patterns.md)
