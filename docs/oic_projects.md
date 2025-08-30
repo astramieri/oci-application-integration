@@ -8,11 +8,15 @@ OCI Project includes the ability to define **project deployments**, where you ca
 
 With OIC Projects, you can restrict those who are allowed to edit, view, and monitor your integrations using **Role-Based Access (RBA) control**. In fact, designing integrations within a project is really the only way to control access at this fine level.
 
+Components (such as Connections, Integrations, Libraries, Lookups, and Events) are available to be included within an OIC project. Packages can be used instead of projects to organize one or more integrations and their dependencies.
+
 ## OIC Project RBAC Permissions
 
 Notice that by default, the project will be private to only you unless you choose to make it public to everyone. However, whether your project starts off as public or private, you can later modify project sharing options at any time. 
 
 While project permissions are similar to OIC service roles such as service developer or service monitor, project permissions are essentially a layer of permissions on top of those service roles. Therefore, project access is restricted based on a user's OIC service role plus their project permissions.
+
+In other words, access to project resources requires the appropriate level permissions in both the OIC service role and the explicit project access permissions.
 
 ## OIC Project Views
 
